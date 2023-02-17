@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+.checkout-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+}
+.total-price-heading {
+  color: #616e7c;
+}
+.span-total-price {
+  color: #171f46;
+}
+.item-in-cart {
+  color: #616e7c;
+  font-size: 20px;
+}
